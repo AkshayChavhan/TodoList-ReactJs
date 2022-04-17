@@ -1,0 +1,77 @@
+*{
+    padding: 0; margin: 0; box-sizing: border-box;
+}
+
+body{
+background-color: #beddca59;
+}
+
+.container{
+    height:30vh;
+}
+
+.list p {
+    padding-left: 2em;
+    
+}
+
+.list button {
+    background-color: #ffbf69b8;
+    color:rgb(71, 45, 45);
+    margin-left: 13em;
+}
+.btn{
+    height: 2.5em;
+    width: 10em;
+    margin-top: 2em;
+    margin-left: 60vw;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list{
+    background-color: aliceblue;
+    padding: 0.8em;
+    border: 2px solid white;
+    max-width: 60vw;
+    margin-left: 19%;
+    position:relative;
+    padding-bottom: 23px;
+}
+
+.mybtn{
+    position: absolute;
+left: -9em;
+}
+
+.btn_nav{
+    display: flex;
+    align-items: flex-end;
+    position: absolute;
+    right: 3px;
+}
+
+main{
+    margin-top: 3em;
+}
+
+.title{
+    background-color:aquamarine;
+    width:100vw;
+    margin-left: 0;
+}
+
+#task{
+    font-size:20px ;
+    border-radius: 15px;
+    margin-top: 1em;
+    margin-left: 25%;
+}
