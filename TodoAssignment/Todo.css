@@ -1,0 +1,15 @@
+.list p {
+    padding-left: 2em;
+    
+}
+
+.list button {
+    margin-left: 2em;
+
+}
+
+.btn_nav{
+    display: flex;
+    align-items: flex-end;
+
+}
